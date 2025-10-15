@@ -4,7 +4,7 @@
 
 # Live Preview:
 
-Link: [https://pastacosi.netlify.app](https://pasta-cosi.vercel.app/)
+Link: https://pasta-cosi.vercel.app/
 
 # Used libraries
 

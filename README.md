@@ -4,17 +4,7 @@
 
 # Live Preview:
 
-Link: https://pastacosi.netlify.app
-
-# Install
-
-- Clone the repository:
-
-```bash
-git clone https://github.com/AouintiAhmed/bootstrap-restaurant-app.git
-```
-
-- Open **`index.html`** in your browser, and enjoy !
+Link: [https://pastacosi.netlify.app](https://pasta-cosi.vercel.app/)
 
 # Used libraries
 
